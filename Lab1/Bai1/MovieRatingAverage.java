@@ -40,7 +40,6 @@ public class MovieRatingAverage {
 
         Map<Integer,String> movieNames = new HashMap<>();
 
-        // TreeMap để sort alphabet theo movie title
         TreeMap<String,String> sortedMovies = new TreeMap<>();
 
         protected void setup(Context context) throws IOException {
@@ -76,7 +75,6 @@ public class MovieRatingAverage {
 
             String output = "Average rating: " + avg + " (Total ratings: " + count + ")";
 
-            // lưu vào TreeMap để tự sort alphabet
             sortedMovies.put(movie, output);
 
             if(count >= 5 && avg > maxRating){
@@ -87,7 +85,6 @@ public class MovieRatingAverage {
 
         protected void cleanup(Context context) throws IOException, InterruptedException {
 
-            // in theo thứ tự alphabet
             for(Map.Entry<String,String> entry : sortedMovies.entrySet()){
                 context.write(new Text(entry.getKey()), new Text(entry.getValue()));
             }
