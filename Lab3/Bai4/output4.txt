@@ -1,0 +1,45 @@
+MovieID | Title                                                        | AgeGroup   | AvgRating  | TotalRatings
+--------------------------------------------------------------------------------------------------------------
+1010    | Lawrence of Arabia (1962)                                    | 26-35      | 3.60       | 5           
+1010    | Lawrence of Arabia (1962)                                    | 36-50      | 3.29       | 12          
+1010    | Lawrence of Arabia (1962)                                    | 50+        | 4.50       | 1           
+1012    | Psycho (1960)                                                | 26-35      | 4.50       | 1           
+1012    | Psycho (1960)                                                | 36-50      | 3.50       | 1           
+1013    | The Godfather: Part II (1974)                                | 18-25      | 4.00       | 2           
+1013    | The Godfather: Part II (1974)                                | 26-35      | 3.71       | 7           
+1013    | The Godfather: Part II (1974)                                | 36-50      | 4.25       | 8           
+1015    | Sunset Boulevard (1950)                                      | 18-25      | 4.50       | 1           
+1015    | Sunset Boulevard (1950)                                      | 26-35      | 4.00       | 2           
+1015    | Sunset Boulevard (1950)                                      | 36-50      | 4.50       | 4           
+1020    | E.T. the Extra-Terrestrial (1982)                            | 18-25      | 3.50       | 2           
+1020    | E.T. the Extra-Terrestrial (1982)                            | 26-35      | 3.58       | 6           
+1020    | E.T. the Extra-Terrestrial (1982)                            | 36-50      | 3.83       | 9           
+1020    | E.T. the Extra-Terrestrial (1982)                            | 50+        | 3.00       | 1           
+1025    | The Terminator (1984)                                        | 18-25      | 4.50       | 1           
+1025    | The Terminator (1984)                                        | 26-35      | 4.10       | 5           
+1025    | The Terminator (1984)                                        | 36-50      | 4.05       | 10          
+1025    | The Terminator (1984)                                        | 50+        | 3.75       | 2           
+1028    | Fight Club (1999)                                            | 26-35      | 3.50       | 3           
+1028    | Fight Club (1999)                                            | 36-50      | 3.50       | 2           
+1028    | Fight Club (1999)                                            | 50+        | 3.50       | 2           
+1030    | The Silence of the Lambs (1991)                              | 26-35      | 3.00       | 3           
+1030    | The Silence of the Lambs (1991)                              | 36-50      | 3.25       | 4           
+1037    | The Lord of the Rings: The Fellowship of the Ring (2001)     | 18-25      | 4.00       | 1           
+1037    | The Lord of the Rings: The Fellowship of the Ring (2001)     | 26-35      | 4.00       | 5           
+1037    | The Lord of the Rings: The Fellowship of the Ring (2001)     | 36-50      | 3.83       | 12          
+1039    | The Lord of the Rings: The Return of the King (2003)         | 26-35      | 3.83       | 3           
+1039    | The Lord of the Rings: The Return of the King (2003)         | 36-50      | 3.81       | 8           
+1040    | Gladiator (2000)                                             | 18-25      | 3.50       | 1           
+1040    | Gladiator (2000)                                             | 26-35      | 3.43       | 7           
+1040    | Gladiator (2000)                                             | 36-50      | 3.81       | 8           
+1040    | Gladiator (2000)                                             | 50+        | 3.50       | 2           
+1043    | No Country for Old Men (2007)                                | 18-25      | 3.50       | 1           
+1043    | No Country for Old Men (2007)                                | 26-35      | 3.86       | 7           
+1043    | No Country for Old Men (2007)                                | 36-50      | 3.94       | 8           
+1043    | No Country for Old Men (2007)                                | 50+        | 4.00       | 2           
+1047    | The Social Network (2010)                                    | 18-25      | 4.00       | 1           
+1047    | The Social Network (2010)                                    | 26-35      | 4.00       | 3           
+1047    | The Social Network (2010)                                    | 36-50      | 3.67       | 3           
+1050    | Mad Max: Fury Road (2015)                                    | 18-25      | 3.00       | 1           
+1050    | Mad Max: Fury Road (2015)                                    | 26-35      | 3.40       | 10          
+1050    | Mad Max: Fury Road (2015)                                    | 36-50      | 3.64       | 7           
